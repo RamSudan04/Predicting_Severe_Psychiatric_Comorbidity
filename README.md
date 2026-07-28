@@ -28,3 +28,5 @@ The optimized XGBoost model demonstrated exceptional performance when classifyin
 | **Overall Accuracy** | **97%** | Highly reliable overall classification across the cohort. |
 | **Recall (High Risk)** | **1.00** | **0 False Negatives.** The model successfully identified *every single* high-risk patient. |
 | **Precision (High Risk)**| **0.97** | Very low rate of false alarms when predicting high comorbidity risk. |
+## 👤 Project Owner
+**Ram Sudan**
